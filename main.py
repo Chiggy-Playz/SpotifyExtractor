@@ -1,4 +1,4 @@
-from itsdangerous import json
+import json
 import tekore as tk
 import toml
 
