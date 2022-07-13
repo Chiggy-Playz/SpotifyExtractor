@@ -132,5 +132,5 @@ dmypy.json
 .vscode
 .cache
 
-config*.toml
 output*.json
+config.toml
